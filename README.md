@@ -4,9 +4,7 @@
 
 <h2>Html 5  ve Css 3 ile oluşturulan Tur Sitesi projesi
 
-Elbette, özür dilerim. İşte HTML ve CSS ile oluşturulan bir tur sitesi için kısa bir açıklama:
 
-Tur Sitesi Açıklama:
 
 Bu tur sitesi, HTML ve CSS kullanılarak oluşturulmuş basit bir web sayfasıdır. Sayfa, kullanıcıya anasayfa, turlar, hakkımızda ve iletişim gibi ana bağlantıları içeren bir navigasyon çubuğu sunar. Başlık ve navigasyon, sayfanın üst kısmında yer alır.
 
